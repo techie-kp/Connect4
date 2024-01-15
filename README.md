@@ -15,7 +15,7 @@
 
   
 
-- Dhruvil Lakhtaria
+- Khush Patel
   
 
 # Project Goal
